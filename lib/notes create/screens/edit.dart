@@ -142,6 +142,7 @@ class _EditNotePageState extends State<EditNotePage> {
                           handleDelete();
                         },
                       ),
+                      //Delete working done
                       AnimatedContainer(
                         margin: EdgeInsets.only(left: 10),
                         duration: Duration(milliseconds: 200),
