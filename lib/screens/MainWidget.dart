@@ -16,7 +16,7 @@ class MainWidget extends StatefulWidget {
   @override
   _MainWidgetState createState() => _MainWidgetState();
 }
-
+//Alarm notes.
 class _MainWidgetState extends State<MainWidget> with TickerProviderStateMixin {
   HiddenDrawerController _drawerController;
   String fullname = ".........";
